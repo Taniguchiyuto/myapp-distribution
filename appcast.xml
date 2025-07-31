@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>Stockr App Updates</title>
+    <link>https://taniguchiyuto.github.io/myapp-distribution/appcast.xml</link>
+    <description>Latest updates for Stockr</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:shortVersionString>3.9.35</sparkle:shortVersionString>
+      <sparkle:version>216</sparkle:version>
+      <pubDate>Wed, 31 Jul 2025 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Taniguchiyuto/myapp-distribution/releases/download/a/Stockr-1.0.0.zip"
+        sparkle:edSignature="l83PRHrdh+KXGIUxbXv1vg7yrcAVMTj82NaUXAQhFF2kgBBDqHAHuwaK+1l3Y5YEU45T+jOjIAr8zDUhQVGXAw=="
+        length="113493401"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
+
