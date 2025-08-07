@@ -11,14 +11,14 @@
 
     <item>
       <title>Version 1.0.0</title>
-      <sparkle:shortVersionString>3.9.34</sparkle:shortVersionString>
-      <sparkle:version>215</sparkle:version>
+      <sparkle:shortVersionString>3.9.31</sparkle:shortVersionString>
+      <sparkle:version>212</sparkle:version>
       <pubDate>Wed, 31 Jul 2025 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/Taniguchiyuto/myapp-distribution/releases/download/a/Stockr-1.0.0.zip"
-        sparkle:edSignature="l83PRHrdh+KXGIUxbXv1vg7yrcAVMTj82NaUXAQhFF2kgBBDqHAHuwaK+1l3Y5YEU45T+jOjIAr8zDUhQVGXAw=="
-        length="113269773"
-        type="application/octet-stream"/>
+        url="https://github.com/Taniguchiyuto/myapp-distribution/releases/download/a/Stockr.zip"
+        sparkle:edSignature="krbUC07RwhN7abr6IS/hoG+xP8a5IsGuBljGvu05r0eyBMZ9CNKuJZE+Vw+d0u3VhguXfScRvVxxJK4iSVOtAA=="
+        length="113342416"
+        type="application/octet-stream"/>4
     </item>
   </channel>
 </rss>
